@@ -84,7 +84,7 @@
 
 **시스템 안정화의 `Big Supporter` (2020-06 ~ )**
 
-> - Code logic 상의 개선사항 제안 및 retry, logging, in-memory process 적용으로 <br> **system maintain cost 안정화**
+> - Code logic 상의 개선사항 제안 및 retry, logging, in-memory process 적용으로 <br> **system maintenance cost 안정화**
 >
 > - On Call 상황 및 다양한 인프라 장애 대응 및 복구 이후 같은 상황이 나오지 않도록 <br> **미리 방지하는 시스템, 다운타임을 최소화할 수 있는 시스템 및 프로세스 제안 및 개발**
 >
