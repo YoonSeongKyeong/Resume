@@ -1,4 +1,4 @@
-# **`윤성경`**
+# **윤성경**
 
 ### **저는 거인의 어깨를 쌓아올리는 책임감 있고 영향력 있는 Data Service & Infra Engineer 입니다**
 
@@ -10,11 +10,37 @@
 >
 > #### phone: **`010-2960-8990`**
 >
-> #### github: **https://github.com/YoonSeongKyeong**
+> #### github: **[https://github.com/YoonSeongKyeong](https://github.com/YoonSeongKyeong)**
 
 <hr>
 
 ## **Introduction**
+
+### 저는
+
+> ### **시스템을 설계하고 구현할 때**
+>
+> ### **기존 시스템을 개선할 때**
+>
+> ### **문제를 해결할 때**
+>
+> ### **많은 사람들에게 가치를 전달할 때**
+
+## 행복합니다
+
+### 저는
+
+> ### **협력해서 일하는 것이**
+>
+> ### **서로의 아이디어를 자유롭게 공유하고 발전하는 것이**
+>
+> ### **의무와 책임에만 매몰되지 않는 것이**
+>
+> ### **몰입해서 일할 수 있는 것이**
+
+## 중요하다고 생각합니다
+
+###
 
 <hr>
 
@@ -36,7 +62,7 @@
 
 > **`Data Service Engineer` (2020-06 ~ )**
 >
-> - Data & AI Team 에서 다른 팀이 **쿼리하는 데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Sub Developer로서 개발 및 관리 개선 작업 진행**
+> - Data & AI Team 에서 다른 팀이 **쿼리하는 데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 개선 작업 진행**
 >
 > - Data & AI Team의 **GUI Query Management 서비스, `Claw Crane` 의 <br> Main Developer로서 전반적인 개발 및 관리 개선 작업 진행**
 >
@@ -44,9 +70,15 @@
 
 > **시스템에 대한 꼼꼼한 문서화 제안 및 실행으로 지속 가능한 발전에 기여하는 <br> `Future Maker` (2020-06 ~ )**
 >
-> - 회사 성장에 따라 증가하는 Knowledge Transition Cost 증가 이슈에 <br> **Systematic Process 접근방식으로 대응, 작업 효율성, 문화적 안정성 및 확장성에 기여**
+> - 꼼꼼한 문서화를 진행하고 프로젝트 상황 공유에 적극적으로 참여. <br> 그 결과로 **작업 속도 및 온보딩 시 성장속도가 크게 개선되고 <br> 암묵적 지식들이 명시화되어 Knowledge Dependency Risk 안정화에 기여**
+
+> **비용 최적화의 `Initiator` (2020-06 ~ )**
 >
-> - 꼼꼼한 문서화를 진행하고 프로젝트 상황 공유에 적극적으로 참여. <br> 그 결과로 **작업 속도 및 온보딩 시 성장속도가 크게 개선되고 <br> 암묵적 지식들이 명시화되어 Knowledge Dependency Risk 안정화에 도움**
+> - Databricks 작업들의 시간 및 비용 효율성을 모니터링하는 대시보드 제작 및 공유로 <br> **팀 전체의 비용 최적화 참여 유도**
+>
+> - Databricks Job Optimization Report를 통해서 최적화 방법론과 적용 사례 정리, <br> **150개 이상의 작업에 30% 이상의 비용 최적화 실현**
+>
+> - AWS 인프라 비용의 주요 fator를 분석한 Billing Alert 제작 및 슬랙 연결, <br> **AWS 인프라 최적화 제안, 그 결과로 40% 이상의 비용 최적화 실현**
 
 > **시스템 안정화의 `Big Supporter` (2020-06 ~ )**
 >
@@ -58,15 +90,7 @@
 >
 > - **Repository Security System 구현을 통해 일원화된 credential 관리 시스템 적용 진행**
 
-> **비용 최적화의 `Initiator` (2020-06 ~ )**
->
-> - Databricks 작업들의 시간 및 비용 효율성을 모니터링하는 대시보드 제작 및 공유로 <br> **팀 전체의 비용 최적화 참여 유도**
->
-> - Databricks Job Optimization Report를 통해서 최적화 방법론과 적용 사례 정리, <br> **150개 이상의 작업에 30% 이상의 비용 최적화 실현**
->
-> - AWS 인프라 비용의 주요 fator를 분석한 Billing Alert 제작 및 슬랙 연결, <br> **AWS 인프라 최적화 제안, 그 결과로 40% 이상의 비용 최적화 실현**
-
-> **User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane) <br> `Main Developer & Mantainer` (2020-06 ~ )**
+> **User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane)의 <br> `Main Developer & Mantainer` (2020-06 ~ )**
 >
 > - 기획 보조와 함께 개발 및 커뮤니케이션, 운영을 담당해서 <br> **UA Data Exploration Task 자동화에 기여, Data & AI Team Resource Efficiency 개선**
 >
@@ -96,7 +120,7 @@
 
 <hr>
 
-2017 ~ 2019 성균관대학교 기계공학부(4.08) 및 융합SW전공(4.43) 복수전공 (현재 6학기)
+2017 ~ 2019 성균관대학교 기계공학부 및 융합SW학과(수료) 복수전공 (현재 6학기)
 
 <hr>
 
