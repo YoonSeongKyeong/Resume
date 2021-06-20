@@ -1,6 +1,6 @@
 # **윤성경**
 
-### **저는 거인의 어깨를 쌓아올리는 책임감 있고 영향력 있는 Data Service & Infra Engineer 입니다**
+### **안녕하세요, 저는 책임감으로 이로운 영향력을 주는 Data Service & Infra Engineer 입니다**
 
 <hr>
 
@@ -16,7 +16,7 @@
 
 ## **Introduction**
 
-### 저는
+### **저는**
 
 > ### **시스템을 설계하고 구현할 때**
 >
@@ -24,23 +24,23 @@
 >
 > ### **문제를 해결할 때**
 >
-> ### **많은 사람들에게 가치를 전달할 때**
+> ### **사람들을 돕고 가치를 전달할 때**
 
-## 행복합니다
+## **행복합니다**
 
 <br>
 
-### 저는
+### **저는**
 
 > ### **협력해서 일하는 것이**
 >
-> ### **서로의 아이디어를 자유롭게 공유하고 발전시키는 것이**
+> ### **시간이 지날수록 성장하는 일을 하는 것이**
 >
-> ### **의무와 책임에만 매몰되지 않는 것이**
+> ### **많은 도전과 함께 실패에서 배우고 발전하는 것이**
 >
 > ### **몰입해서 일할 수 있는 것이**
 
-## 중요하다고 생각합니다
+## **중요하다고 생각합니다**
 
 <hr>
 
@@ -64,15 +64,15 @@
 
 **`Data Service Engineer` (2020-06 ~ )**
 
-> - Data & AI Team 에서 다른 팀이 **쿼리하는 데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 개선 작업 진행**
+> - Data & AI Team 에서 다른 팀에게 **데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 진행**
 >
-> - Data & AI Team의 **GUI Query Management 서비스, `Claw Crane` 의 <br> Main Developer로서 전반적인 개발 및 관리 개선 작업 진행**
+> - Data & AI Team의 **GUI Query Management 서비스, `Claw Crane` 의 <br> Main Developer로서 개발 및 관리 진행**
 >
-> - Data & AI Team에서 데이터를 서비스하기 위해 연결한 **외부 CRM Tool인 <br> `Braze`를 전담해서 개발 및 관리 작업 진행**
+> - Data & AI Team에서 데이터를 서비스하기 위해 연결한 **외부 CRM Tool인 <br> `Braze`를 전담해서 개발 및 관리 진행**
 
-**시스템에 대한 꼼꼼한 문서화 제안 및 실행으로 지속 가능한 발전에 기여하는 <br> `Future Maker` (2020-06 ~ )**
+**시스템에 대한 문서화 제안 및 실행으로 지속 가능한 발전에 기여하는 <br> `Future Maker` (2020-06 ~ )**
 
-> - 꼼꼼한 문서화를 진행하고 프로젝트 상황 공유에 적극적으로 참여. <br> 그 결과로 **작업 속도 및 온보딩 시 성장속도가 크게 개선되고 <br> 암묵적 지식들이 명시화되어 Knowledge Dependency Risk 안정화에 기여**
+> - 체계적 문서화를 진행하고 프로젝트 상황 공유에 적극 참여. <br> 그 결과로 **작업 속도 및 온보딩 시 성장속도가 개선되고 <br> 암묵적 지식들이 명시화되어 Knowledge Dependency Risk 안정화에 기여**
 
 **비용 최적화의 `Initiator` (2020-06 ~ )**
 
@@ -86,7 +86,7 @@
 
 > - Code logic 상의 개선사항 제안 및 retry, logging, in-memory process 적용으로 <br> **system maintenance cost 안정화**
 >
-> - On Call 상황 및 다양한 인프라 장애 대응 및 복구 이후 같은 상황이 나오지 않도록 <br> **미리 방지하는 시스템, 다운타임을 최소화할 수 있는 시스템 및 프로세스 제안 및 개발**
+> - On Call 상황 및 다양한 인프라 장애 대응 및 복구 이후 <br> **예방이 가능한 시스템, 다운타임 최소화 시스템 및 프로세스 제안 및 개발**
 >
 > - Incremental Job의 **Idempotency를 보장하고 Discrepancy를 교정할 수 있는 시스템 <br> 제안 및 개발**
 >
@@ -96,15 +96,15 @@
 
 > - 기획 보조와 함께 개발 및 커뮤니케이션, 운영을 담당해서 <br> **UA Data Exploration Task 자동화에 기여, Data & AI Team Resource Efficiency 개선**
 >
-> - prototyping과 agile-like scheduling을 적극 활용해서 **기획을 빠르게 구체화하고 <br> 3개월 정도의 개발기간 이후 서비스 시작, 현재까지 internal 서비스로 <br> UA팀 퍼포먼스에 기여**
+> - prototyping과 agile-like scheduling을 활용해서 **기획의 빠른 구체화 <br> 3개월 정도의 개발, 검증기간 이후 서비스 출시, 현재까지 internal 서비스로 <br> UA팀 퍼포먼스에 기여**
 
 **User Acquisition Team `Tech Supporter` (2020-06 ~ 2021-03)**
 
 > - 매주 진행되는 **Data & AI** X **UA Team** 글로벌 회의에 <br> **Data Engineering Team Supporter로 참여해서 Tech Support 진행**
 >
-> - **Key Business Metrics Pipelines을 전담**해서 내부적, 외부적 기술 지원과 함께 <br> 이슈에 대한 빠르고 디테일한 기술 대응을 통해 <br> **비즈니스 밸류, 퍼포먼스 성장에 간접적인 기여**
+> - **Key Business Metrics Pipelines을 전담**해서 내부적, 외부적 기술 지원과 함께 <br> 이슈에 대한 신속하고 구체적인 기술 대응을 통해 <br> **비즈니스 밸류, 퍼포먼스 성장에 간접적인 기여**
 >
-> - UA 팀의 기술적 어드바이저 역할을 자원해서 **UA 팀의 Pain Point를 캐치하고 <br> 이를 Claw Crane 프로젝트에 녹여내어 UA 팀의 UA Cycle Iteration의 <br> 효율성을 극적으로 높이는데 기여**
+> - UA 팀의 기술적 어드바이저 역할을 자원해서 **UA 팀의 Pain Point를 캐치하고 <br> 이를 Claw Crane 프로젝트에 녹여내어 UA 팀의 UA Cycle Iteration의 <br> 효율성을 높이는데 기여**
 
 <hr>
 
@@ -124,11 +124,13 @@
 
 2017 ~ 2019 성균관대학교 기계공학부 및 융합SW학과(수료) 복수전공 (현재 6학기)
 
+- `주로 소프트웨어학과 원전공 수업을 수강했으며 2019 1학기 20학점 4.43/4.5 계절학기 6학점 Pass 2학기 21학점 4.5/4.5으로 수료`
+
 <hr>
 
 <br>
 
-> ### **Additional Information**
+> ### **More Information**
 
 > - **[2020 이력서](./docs/윤성경_이력서_2020.pdf)**
 > - **[2020 자기소개서](./docs/윤성경_자기소개서_2020.pdf)**
