@@ -1,4 +1,6 @@
-### **윤성경, `저는 거인의 어깨를 쌓아올리는 책임감 있고 영향력 있는 Data Service & Infra Engineer 입니다`**
+# **`윤성경`**
+
+### **저는 거인의 어깨를 쌓아올리는 책임감 있고 영향력 있는 Data Service & Infra Engineer 입니다**
 
 <hr>
 
@@ -36,7 +38,7 @@
 >
 > - Data & AI Team 에서 다른 팀이 **쿼리하는 데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Sub Developer로서 개발 및 관리 개선 작업 진행**
 >
-> - Data & AI Team에서 만든 **GUI Query Management 서비스인 `Claw Crane` 의 <br> Main Developer로서 전반적인 개발 및 관리 개선 작업 진행**
+> - Data & AI Team의 **GUI Query Management 서비스, `Claw Crane` 의 <br> Main Developer로서 전반적인 개발 및 관리 개선 작업 진행**
 >
 > - Data & AI Team에서 데이터를 서비스하기 위해 연결한 **외부 CRM Tool인 <br> `Braze`를 전담해서 개발 및 관리 작업 진행**
 
