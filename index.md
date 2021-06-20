@@ -128,7 +128,7 @@
 
 <br>
 
-> ### **Previous Version**
+> ### **Additional Information**
 
 > - **[2020 이력서](./docs/윤성경_이력서_2020.pdf)**
 > - **[2020 자기소개서](./docs/윤성경_자기소개서_2020.pdf)**
