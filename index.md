@@ -1,6 +1,6 @@
 # **윤성경**
 
-### **안녕하세요! <br> 저는 책임감으로 이로운 영향력을 주는 Data Service & Infra Engineer 입니다**
+### **안녕하세요! <br> 저는 책임감을 갖고 더 나은 시스템을 만들어가는 Data Service & Infra Engineer 입니다**
 
 <hr>
 
@@ -18,29 +18,41 @@
 
 ### **저는**
 
-> ### **시스템을 설계하고 구현할 때**
+> ### **새로운 시스템을 설계하고 구현하는 것부터**
 >
-> ### **기존 시스템을 개선할 때**
+> ### **기존 시스템을 평가하고 개선하는 과정에서 생기는**
 >
-> ### **문제를 해결할 때**
+> ### **다양한 이슈를 해결함으로**
 >
 > ### **사람들을 돕고 가치를 전달할 때**
 
-## **행복합니다**
+### **행복을 느끼는 소프트웨어 엔지니어입니다**
 
 <br>
 
 ### **저는**
 
-> ### **협력해서 일하는 것이**
+> ### **몰입해서 일할 수 있는 환경에서**
 >
-> ### **시간이 지날수록 성장하는 일을 하는 것이**
+> ### **도전과 함께 실패에서 배우고 발전하는 것과**
 >
-> ### **많은 도전과 함께 실패에서 배우고 발전하는 것이**
+> ### **노하우를 공유하고 협력해서 일하는 것을 통해**
 >
-> ### **몰입해서 일할 수 있는 것이**
+> ### **시간이 지날수록 모두가 성장하는 일을 하는 공동체에서**
 
-## **중요하다고 생각합니다**
+### **최선의 결과를 만들어냅니다**
+
+<hr>
+
+## **Skill**
+
+<hr>
+
+- **Front-End: JavaScript, TypeScript, React.js, HTML/CSS**
+- **Back-End: Node.js, Golang, Python, Java**
+- **Infrastructure: Helmfile, Helm, Kubernetes, Docker, Terraform, AWS, CDK**
+- **Database: MySql, Redshift, PostgreSQL, AWS DynamoDB**
+- **Data: SQL, Databricks, Spark, Redshift, Presto, Airflow**
 
 <hr>
 
@@ -105,18 +117,6 @@
 > - **Key Business Metrics Pipelines을 전담**해서 내부적, 외부적 기술 지원과 함께 <br> 이슈에 대한 신속하고 구체적인 기술 대응을 통해 <br> **비즈니스 밸류, 퍼포먼스 성장에 간접적인 기여**
 >
 > - UA 팀의 기술적 어드바이저 역할을 자원해서 **UA 팀의 Pain Point를 캐치하고 <br> 이를 Claw Crane 프로젝트에 녹여내어 UA 팀의 UA Cycle Iteration의 <br> 효율성을 높이는데 기여**
-
-<hr>
-
-## **Skill**
-
-<hr>
-
-- **Front-End: JavaScript, TypeScript, React.js, HTML/CSS**
-- **Back-End: Node.js, Golang, Python, Java**
-- **Infrastructure: Helmfile, Helm, Kubernetes, Docker, Terraform, AWS, CDK**
-- **Database: MySql, Redshift, PostgreSQL, AWS DynamoDB**
-- **Data: SQL, Databricks, Spark, Redshift, Presto, Airflow**
 
 ## **Education**
 
