@@ -48,7 +48,7 @@
 - Layered Architecture를 사용한 모듈화 적용
 - `Node.js` JS ES6 / Context / Call Stack 및 V8 엔진의 GC, Dict 구현 방식 등 Internal Knowledge 활용
 - `Node.js` JS Jest 기반 Full Coverage Test 개발 경험
-- `Golang` Go routine을 이용한 Lock-Free MultiThreading 설계, 개발 및 개선 경험
+- `Golang` Go routine을 이용한 Lock-Free Multi Threading 설계, 개발 및 개선 경험
 - `Golang` Complex Form을 위한 JSON Validator 설계, 개발 및 개선 경험
 - `Golang` JSON to SQL Parser 개발 및 개선 경험
 - `Python` Airflow Dag 스케쥴링 시스템 개발 및 개선 경험
