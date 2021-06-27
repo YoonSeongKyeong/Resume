@@ -38,8 +38,8 @@
 
 - React, Redux 기반 프론트엔드 개발 및 서비스 경험
 - 특수한 요구사항을 갖는 시스템 개발 경험
-- `Form Component가 3단계 이상 Dynamic하게 Nested되어 있는 GUI Query Maker` 설계 개발 및 개선 경험
-- `실시간 투표 시스템` 설계 개발 및 개선 경험
+- `Form Component가 3단계 이상 Dynamic하게 Nested되어 있는 GUI Query Maker` 설계, 개발 및 개선 경험
+- `실시간 투표 시스템` 설계, 개발 및 개선 경험
 - Ant Design 및 CSS 모듈화를 기반으로 커스텀 UI 구성 경험
 - 적극적인 디버깅 및 트러블슈팅 시스템 활용
 
@@ -48,11 +48,11 @@
 - Layered Architecture를 사용한 모듈화 적용
 - `Node.js` JS ES6 / Context / Call Stack 및 V8 엔진의 GC, Dict 구현 방식 등 Internal Knowledge 활용
 - `Node.js` JS Jest 기반 Full Coverage Test 개발 경험
-- `Golang` Go routine을 이용한 Lock-Free MultiThreading 설계 개발 및 개선 경험
-- `Golang` Complex Form을 위한 JSON Validator 설계 개발 및 개선 경험
+- `Golang` Go routine을 이용한 Lock-Free MultiThreading 설계, 개발 및 개선 경험
+- `Golang` Complex Form을 위한 JSON Validator 설계, 개발 및 개선 경험
 - `Golang` JSON to SQL Parser 개발 및 개선 경험
 - `Python` Airflow Dag 스케쥴링 시스템 개발 및 개선 경험
-- `Python` Credential Management 시스템 설계 개발 및 개선 경험
+- `Python` Credential Management 시스템 설계, 개발 및 개선 경험
 - 적극적인 디버깅 및 트러블슈팅 시스템 활용
 
 > ### **Infrastructure**
