@@ -68,7 +68,7 @@
 - AWS Redshift를 이용한 테이블 설계 및 관리 경험
 - Google Firestore, AWS DynamoDB 등 NoSql DB를 이용한 시스템 설계 및 관리 경험
 
-> **Data**
+> ### **Data**
 
 - Data Service 개발 및 관리 경험
 - Spark Cluster & Databricks 환경에서 SQL을 포함한 ETL 개발 및 개선 경험
@@ -76,7 +76,7 @@
 - Airflow를 활용한 ETL 스케쥴 개발 및 관리 경험
 - Presto 도입을 위한 스터디 및 발표와 POC 경험
 
-> **Communication**
+> ### **Communication**
 
 - Tech Supporter로 주요 비즈니스 의사결정 속도 향상 경험
 - 다양한 사람들과 페어 프로그래밍과 애자일 방법론을 사용해서 협업하며 시너지를 낸 경험
