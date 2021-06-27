@@ -140,7 +140,7 @@
 >
 > - prototyping과 agile-like scheduling을 활용해서 **기획의 빠른 구체화 <br> 3개월 정도의 개발, 검증기간 이후 서비스 출시, 현재까지 internal 서비스로 <br> UA팀 퍼포먼스에 기여**
 
-**User Acquisition Team `Tech Supporter` (2020-06 ~ 2021-03)**
+### **User Acquisition Team `Tech Supporter` (2020-06 ~ 2021-03)**
 
 > - 매주 진행되는 **Data & AI** X **UA Team** 글로벌 회의에 <br> **Data Engineering Team Supporter로 참여해서 Tech Support 진행**
 >
