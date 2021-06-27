@@ -104,7 +104,7 @@
 
 ### **Main Role**
 
-**`Data Service Engineer` (2020-06 ~ )**
+### **`Data Service Engineer` (2020-06 ~ )**
 
 > - Data & AI Team 에서 다른 팀에게 **데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 진행**
 >
@@ -112,11 +112,11 @@
 >
 > - Data & AI Team에서 데이터를 서비스하기 위해 연결한 **외부 CRM Tool인 <br> `Braze`를 전담해서 개발 및 관리 진행**
 
-**시스템에 대한 문서화 제안 및 실행으로 지속 가능한 발전에 기여하는 `Future Maker` (2020-06 ~ )**
+### **시스템에 대한 문서화 제안 및 실행으로 지속 가능한 발전에 기여하는 `Future Maker` (2020-06 ~ )**
 
 > - 체계적 문서화를 진행하고 프로젝트 상황 공유에 적극 참여. <br> 그 결과로 **작업 속도 및 온보딩 시 성장속도가 개선되고 <br> 암묵적 지식들이 명시화되어 Knowledge Dependency Risk 안정화에 기여**
 
-**비용 최적화 `Initiator` (2020-06 ~ )**
+### **비용 최적화 `Initiator` (2020-06 ~ )**
 
 > - Databricks 작업들의 시간 및 비용 효율성을 모니터링하는 대시보드 제작 및 공유로 <br> **팀 전체의 비용 최적화 참여 유도**
 >
@@ -124,7 +124,7 @@
 >
 > - AWS 인프라 비용의 주요 fator를 분석한 Billing Alert 제작 및 슬랙 연결, <br> **AWS 인프라 최적화 제안, 그 결과로 40% 이상의 비용 최적화 실현**
 
-**시스템 안정화 `Supporter` (2020-06 ~ )**
+### **시스템 안정화 `Supporter` (2020-06 ~ )**
 
 > - Code logic 상의 개선사항 제안 및 retry, logging, in-memory process 적용으로 <br> **system maintenance cost 안정화**
 >
@@ -134,7 +134,7 @@
 >
 > - **Repository Security System 구현을 통해 일원화된 credential 관리 시스템 적용 진행**
 
-**User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane)의 <br> `Main Developer & Mantainer` (2020-06 ~ )**
+### **User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane)의 <br> `Main Developer & Mantainer` (2020-06 ~ )**
 
 > - 기획 참여와 함께 개발 및 커뮤니케이션, 운영을 담당해서 <br> **UA Data Exploration Task 자동화에 기여, Data & AI Team Resource Efficiency 개선**
 >
