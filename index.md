@@ -18,7 +18,7 @@
 
 ### **저는**
 
-> ### **당차게 도전하고 실패에서 배운 노하우를 공유하며**
+> ### **몰입해서 도전하고 실패에서 배운 노하우를 공유하며**
 >
 > ### **협력해서 최선의 결과를 만들어냅니다**
 
@@ -36,8 +36,6 @@
 
 > ### **Front-End**
 
-- 기획부터 구현까지 5개 이상의 프로젝트 리드
-- 서비스 운영과 개선까지 1개 이상 프로젝트 리드
 - React, Redux 기반 프론트엔드 개발 및 서비스 경험
 - 특수한 요구사항을 갖는 시스템 개발 경험
 - `Form Component가 3단계 이상 Dynamic하게 Nested되어 있는 GUI Query Maker` 설계 개발 및 개선 경험
@@ -47,8 +45,6 @@
 
 > ### **Back-End**
 
-- 기획부터 구현까지 5개 이상의 프로젝트 리드
-- 서비스 운영과 개선까지 2개 이상의 프로젝트 리드
 - Layered Architecture를 사용한 모듈화 적용
 - `Node.js` JS ES6 / Context / Call Stack 및 V8 엔진의 GC, Dict 구현 방식 등 Internal Knowledge 활용
 - `Node.js` JS Jest 기반 Full Coverage Test 개발 경험
@@ -62,8 +58,8 @@
 > ### **Infrastructure**
 
 - Docker, Kubernetes, Helm, Helmfile 을 사용해서 개발, 배포 및 이슈 해결 경험
-- Terraform 및 AWS CDK 환경에서 IaaC로 배포 경험
-- Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용
+- Terraform 및 AWS CDK 환경에서 배포 경험
+- Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용 경험
 - Gitlab CI / CD 를 통한 클라이언트 및 서버 배포 시스템 자동화 경험
 
 > ### **Database**
@@ -119,7 +115,7 @@
 
 > - 체계적 문서화를 진행하고 프로젝트 상황 공유에 적극 참여. <br> 그 결과로 **작업 속도 및 온보딩 시 성장속도가 개선되고 <br> 암묵적 지식들이 명시화되어 Knowledge Dependency Risk 안정화에 기여**
 
-**비용 최적화의 `Initiator` (2020-06 ~ )**
+**비용 최적화 `Initiator` (2020-06 ~ )**
 
 > - Databricks 작업들의 시간 및 비용 효율성을 모니터링하는 대시보드 제작 및 공유로 <br> **팀 전체의 비용 최적화 참여 유도**
 >
@@ -127,7 +123,7 @@
 >
 > - AWS 인프라 비용의 주요 fator를 분석한 Billing Alert 제작 및 슬랙 연결, <br> **AWS 인프라 최적화 제안, 그 결과로 40% 이상의 비용 최적화 실현**
 
-**시스템 안정화의 `Big Supporter` (2020-06 ~ )**
+**시스템 안정화 `Supporter` (2020-06 ~ )**
 
 > - Code logic 상의 개선사항 제안 및 retry, logging, in-memory process 적용으로 <br> **system maintenance cost 안정화**
 >
@@ -139,7 +135,7 @@
 
 **User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane)의 <br> `Main Developer & Mantainer` (2020-06 ~ )**
 
-> - 기획 보조와 함께 개발 및 커뮤니케이션, 운영을 담당해서 <br> **UA Data Exploration Task 자동화에 기여, Data & AI Team Resource Efficiency 개선**
+> - 기획 참여와 함께 개발 및 커뮤니케이션, 운영을 담당해서 <br> **UA Data Exploration Task 자동화에 기여, Data & AI Team Resource Efficiency 개선**
 >
 > - prototyping과 agile-like scheduling을 활용해서 **기획의 빠른 구체화 <br> 3개월 정도의 개발, 검증기간 이후 서비스 출시, 현재까지 internal 서비스로 <br> UA팀 퍼포먼스에 기여**
 
