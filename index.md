@@ -34,7 +34,7 @@
 
 <hr>
 
-> ### **Front-End**
+### **Front-End**
 
 - React, Redux 기반 프론트엔드 개발 및 서비스 경험
 - 특수한 요구사항을 갖는 시스템 개발 경험
@@ -43,7 +43,7 @@
 - Ant Design 및 CSS 모듈화를 기반으로 커스텀 UI 구성 경험
 - 적극적인 디버깅 및 트러블슈팅 시스템 활용
 
-> ### **Back-End**
+### **Back-End**
 
 - Layered Architecture를 사용한 모듈화 적용
 - `Node.js` JS ES6 / Context / Call Stack 및 V8 엔진의 GC, Dict 구현 방식 등 Internal Knowledge 활용
@@ -55,20 +55,20 @@
 - `Python` Credential Management 시스템 설계, 개발 및 개선 경험
 - 적극적인 디버깅 및 트러블슈팅 시스템 활용
 
-> ### **Infrastructure**
+### **Infrastructure**
 
 - Docker, Kubernetes, Helm, Helmfile 을 사용해서 개발, 배포 및 이슈 해결 경험
 - Terraform 및 AWS CDK 환경에서 배포 경험
 - Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용 경험
 - Gitlab CI / CD 를 통한 클라이언트 및 서버 배포 시스템 자동화 경험
 
-> ### **Database**
+### **Database**
 
 - RDBMS MySql, ORM을 이용한 프로젝트의 테이블 설계 및 관리 경험
 - AWS Redshift를 이용한 테이블 설계 및 관리 경험
 - Google Firestore, AWS DynamoDB 등 NoSql DB를 이용한 시스템 설계 및 관리 경험
 
-> ### **Data**
+### **Data**
 
 - Data Service 개발 및 관리 경험
 - Spark Cluster & Databricks 환경에서 SQL을 포함한 ETL 개발 및 개선 경험
@@ -76,7 +76,7 @@
 - Airflow를 활용한 ETL 스케쥴 개발 및 관리 경험
 - Presto 도입을 위한 스터디 및 발표와 POC 경험
 
-> ### **Communication**
+### **Communication**
 
 - Tech Supporter로 주요 비즈니스 의사결정 속도 향상 경험
 - 다양한 사람들과 페어 프로그래밍과 애자일 방법론을 사용해서 협업하며 시너지를 낸 경험
