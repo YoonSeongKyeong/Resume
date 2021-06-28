@@ -134,7 +134,7 @@
 >
 > - **Repository Security System 구현을 통해 일원화된 credential 관리 시스템 적용 진행**
 
-### **User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane)의 <br> `Main Developer & Mantainer` (2020-06 ~ )**
+### **User Acquisition Team을 위한 GUI Query Management Tool (Claw Crane)의 <br> `Main Developer & Maintainer` (2020-06 ~ )**
 
 > - 기획 참여와 함께 개발 및 커뮤니케이션, 운영을 담당해서 <br> **UA Data Exploration Task 자동화에 기여, Data & AI Team Resource Efficiency 개선**
 >
