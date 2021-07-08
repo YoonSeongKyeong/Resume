@@ -29,10 +29,6 @@
 > ### **가치를 전달할 때 보람을 느끼는 소프트웨어 엔지니어입니다**
 
 <hr>
-<br>
-<br>
-<br>
-<br>
 
 ## **Skill**
 
@@ -71,10 +67,6 @@
 - RDBMS MySql, ORM을 이용한 프로젝트의 테이블 설계 및 관리 경험
 - AWS Redshift를 이용한 테이블 설계 및 관리 경험
 - Google Firestore, AWS DynamoDB 등 NoSql DB를 이용한 시스템 설계 및 관리 경험
-
-<br>
-<br>
-<br>
 
 ### **Data**
 
