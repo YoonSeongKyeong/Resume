@@ -72,6 +72,10 @@
 - AWS Redshift를 이용한 테이블 설계 및 관리 경험
 - Google Firestore, AWS DynamoDB 등 NoSql DB를 이용한 시스템 설계 및 관리 경험
 
+<br>
+<br>
+<br>
+
 ### **Data**
 
 - Data Service 개발 및 관리 경험
