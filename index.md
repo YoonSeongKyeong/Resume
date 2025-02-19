@@ -182,7 +182,7 @@
 
 ### **`Data Engineer` ( 2020-06 ~ 2022-03 )**
 
-### **`Data Service` Developer**
+### **데이터 서비스 `Developer`**
 
 > - Data & AI Team 에서 다른 팀에게 **데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 진행**
 >
