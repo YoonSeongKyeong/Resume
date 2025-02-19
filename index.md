@@ -20,7 +20,7 @@
 
 > ### **몰입해서 도전하고 책임감으로 가치를 지켜내며**
 >
-> ### **팀의 목표를 위해 최선을 다하고 핵심 노하우를 공유하며**
+> ### **팀의 목표를 위해 최선을 다하고 핵심 노하우를 공유함으로**
 >
 > ### **협력해서 최선의 결과를 만들기 위해 노력합니다**
 
@@ -39,32 +39,27 @@
 ### **Data**
 
 - 전체 Data Pipeline 및 Data System을 책임지고 개발, 운영, 관리했으며 지속적인 개선과 모듈화 진행
-- `(Spark) Databricks` 환경 에서 시스템 이해를 기반으로 SQL을 포함한 ETL 개발, 개선, 비용 최적화, 이슈 대처 및 운영 경험
-- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, `VPN & Domain Migration` 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
-- 특히 `Data Pipeline`과 `Data Serving Layer`에 집중하여 시스템과 밸류 관점에서 문제상황을 정의하고 솔루션을 개발, 운영, 관리한 경험
+- `(Spark) Databricks` 환경 에서 시스템 이해 기반으로 SQL을 포함한 ETL 개발, <br> 로직 개선, 비용 최적화, 이슈 대처 및 운영 경험
+- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, `VPN & Domain Migration` <br> 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
+- 특히 `Data Pipeline`과 `Data Serving Layer`에 집중하여 시스템과 밸류 관점에서 문제상황을 정의하고 <br> 솔루션을 개발, 운영, 관리한 경험
 - 실시간 쿼리 플랫폼, 실시간 데이터 서비스, 실시간 데이터 파이프라인 구축 경험
 - `Airflow`에 대한 이해와 팀 내 규칙들을 결합한 최적화 및 운영 관리 경험
 - `Airflow`를 활용한 ETL 스케쥴 개발 및 관리, 모듈 추가를 통한 기능 강화와 리팩토링 경험
-- `AWS Infra & Databricks Cost Monitoring` 시스템 구축으로 정밀한 리소스별 비용 트래킹과 리소스 사용 내역 파악, 모니터링 시스템을 사내 모든 팀별로 공유하고 분석하여 비용 최적화 기반을 진행하고 여러 차례 팀 내 비용 최적화를 진행한 경험
+- `AWS Infra & Databricks Cost Monitoring` 시스템 구축으로 정밀한 리소스별 비용 트래킹과 <br> 리소스 사용 내역 파악, 모니터링 시스템을 사내 모든 팀별로 공유하고 분석하여 <br> 비용 최적화 기반을 진행하고 여러 차례 팀 내 비용 최적화를 진행한 경험
 - 전체 Data System과 관리 노하우를 문서화하고 지속적으로 인수인계하여 팀 내 안정성 강화
 
 ### **Query**
 
-- 외부에서 문의하신 Data Discrepancy 문제를 end to end로 수집 단계부터 대시보드 단계까지 검사하여 ETL 로직의 개선점을 찾고 반영하는 작업 진행.
-- 팀 내 복잡한 쿼리들에 대해 다양한 관점에서 분석하고 동일 결과를 갖는 효율적인 실행 방식으로 실행 환경부터 세부 로직까지 Data Scientist분들과 협업하며 최적화. 주요 쿼리들을 기준으로 약 50%의 시간 절감 효과 발생.
-- 팀 내 높은 비용을 소모하는 Batch 쿼리들에 대해 Incremental 방식으로 변경하는 방법에 대해 분석하고 개선 방안 공유 및 일부 적용.
+- 외부에서 문의하신 Data Discrepancy 문제를 end to end로 수집 단계부터 대시보드 단계까지 <br> 검사하여 ETL 로직의 개선점을 찾고 반영하는 작업 진행.
+- 팀 내 복잡한 쿼리들에 대해 다양한 관점에서 분석하고 동일 결과를 갖는 효율적인 실행 방식으로 <br> 실행 환경부터 세부 로직까지 Data Scientist분들과 협업하며 최적화. <br> 주요 쿼리들을 기준으로 약 50%의 시간 절감 효과 발생.
+- 팀 내 높은 비용을 소모하는 Batch 쿼리들에 대해 Incremental 방식으로 변경하는 방법에 대해 <br> 분석하고 개선 방안 공유 및 일부 적용.
 
 ### **Infrastructure**
 
-- Docker, Kubernetes, Helm, Helmfile 을 사용해서 개발, 배포 및 이슈 해결 경험.
-  - 많은 이슈 상황에서 Maintainer로서 문제를 찾아서 해결하고 상황을 정상화한 뒤 재발 방지한 경험
-  - 원활한 관리를 위해 팀 내 컨벤션을 정하고 해당 모듈 또는 패턴을 사용하도록 추상화
+- Docker, Kubernetes, Helm, Helmfile 을 사용해서 개발, 배포 및 이슈 해결 경험. <br> 많은 이슈 상황에서 Maintainer로서 문제를 찾아서 해결하고 상황을 정상화한 뒤 재발 방지 <br> 원활한 관리를 위해 팀 내 컨벤션을 정하고 해당 모듈 또는 패턴을 사용하도록 추상화
 - Terraform 및 AWS CDK 환경에서 배포 경험
-- Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용 경험
-  - 지속적인 공유와 필요성 인식으로 팀 내 컨벤션 및 사내 컨벤션으로 정착
-- Gitlab CI / CD 를 통한 클라이언트 및 서버 배포 시스템 자동화 경험
-  - Github CI / CD로 Migration 한 경험
-  - 모듈화를 이용한 전반적 CI 패턴과 컨벤션 제안 및 적용 경험
+- Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용 경험 <br> 지속적인 공유와 필요성 인식으로 팀 내 컨벤션 및 사내 컨벤션으로 정착
+- Gitlab CI / CD 를 통한 클라이언트 및 서버 배포 시스템 자동화 경험 <br> Github CI / CD로 Migration 한 경험 <br> 모듈화를 이용한 전반적 CI 패턴과 컨벤션 제안 및 적용 경험
 - 반복되는 인프라 이슈에 대해 패턴을 파악하고 스크립트 또는 가이드라인을 만들어서 팀 내에 공유하는 방법으로 안정성을 강화한 경험
 
 ### **Front-End**
@@ -90,8 +85,8 @@
 - `Python` 새 모듈 자체 개발 및 도입을 통해 기존 코드 리팩토링 제안과 모듈화 경험
 - `Python` Credential Management 시스템 설계, 개발 및 개선 경험
 - `Yaml` 및 `Json` 베이스로 다양한 요구에 맞춰 실행되는 모듈형 서버를 적극 사용한 경험
-- 시스템 안정성과 효율성을 지속적으로 개선해서 중대 이슈 발생 예방, 작업시간 단축, 데이터 파이프라인 안정성과 확장성을 확보한 경험
-- 시스템 복잡성을 줄여서 관리를 단순화, 패턴화했으며, 관리 노하우를 정리하여 팀 내에 공유하고 팀 내 지식을 체계화한 경험
+- 시스템 안정성과 효율성을 지속적으로 개선해서 중대 이슈 발생 예방, 작업시간 단축, <br> 데이터 파이프라인 안정성과 확장성을 확보한 경험
+- 시스템 복잡성을 줄여서 관리를 단순화, 패턴화했으며, 관리 노하우를 정리하여 팀 내에 공유하고 <br> 팀 내 지식을 체계화한 경험
 - 적극적인 디버깅 및 트러블슈팅 시스템 활용
 
 ### **Database**
@@ -143,24 +138,23 @@
 >
 > - 전체 ETL에서 작업 비용 최적화 가능성을 발견하고, 주요 ETL부터 적용하여 <br> **주요 ETL 기준 50%, 전체 ETL 비용 기준 20% 이상 비용 감소 실현**
 >
-> - Data & AI Team 내 전체 System에 걸친 성능 개선, 비용 최적화 작업 및 안정성 확보 작업을 <br> 통해 **Data System의 개발, 운영, 평가, 개선 작업에 대한 명시적이고 실질적인 체계화에 기여**
+> - Data & AI Team 내 전체 System에 걸친 성능 개선, 비용 최적화 작업 및 안정성 확보 작업을 <br> 통해 **Data System의 개발, 운영, 평가, 개선 작업에 대한 명시적, 실질적인 체계화에 기여**
 >
 > - 팀 내 비용 최적화 리더로서 비용 최적화 분석 노하우와 리포트를 팀에 지속적으로 공유해서 <br> **비용 최적화 문화의 확산과 효율성 강화로 팀 성장과 회사 성장에 기여**
 
 ### **데이터 시스템 `Owner(Maintainer), 전천후 이슈 해결사`**
 
-> - 시스템이 비즈니스 밸류를 안정적으로 제공할 수 있도록 유저와 엔지니어 관점에서 관리하고 <br> **이슈 발생 시 Ownership을 갖고 주요 원인 파악, 시스템 복구, 재발 방지책 수립까지 솔선수범** <br> 이후 시스템 개선, 자동화, 문서화 등 **팀 차원의 참여와 안정성 개선에 기여**
+> - 시스템이 비즈니스 밸류를 안정적으로 제공할 수 있도록 유저와 엔지니어 관점에서 관리하고 <br> **이슈 발생 시 Ownership을 갖고 주요 원인 파악, 시스템 복구, 재발 방지책 수립에 솔선수범** <br> 이후 시스템 개선, 자동화, 문서화 등 **팀 차원의 참여와 안정성 개선에 기여**
 >
 > - On Call 상황 및 다양한 인프라 장애 대응 및 복구 이후 <br> **예방이 가능한 시스템, 다운타임 최소화 시스템 및 프로세스 제안 및 개발 후 적용**
 >
 > - Data System 별 이슈 대응 노하우 정리 및 공유를 통해 <br> **팀 내 협업 역량과 위기 대응 역량을 강화하고 시스템 안정성 개선에 기여**
 >
-> - 외부 관계자와의 소통부터 복잡한 오픈소스의 코드 속 변경사항이나 호환성 이슈 등 <br> 다양한 이슈 상황에서 **높은 집중력과 책임감으로 항상 최선을 다해 원인을 파악하고 이슈 해결**
+> - 외부 관계자와의 소통부터 복잡한 오픈소스의 코드 속 변경사항이나 호환성 이슈 등 <br> 다양한 이슈 상황에서 **높은 집중력과 책임감으로 신속하게 원인을 파악하고 이슈 해결**
 >
 > - data-help라는 팀 외부 요청들의 전담 대응 TF 책임자로서 <br> **수많은 외부 요청들을 엔지니어 관점과 유저 관점, 비즈니스 밸류 관점으로 <br> 재해석하고 소통하며 팀이 더 나은 시스템과 서비스를 제공하도록 기여**
 >
-> - Security, Airflow, Schema Registry Internal Tool, Amundsen to Datahub, UA Dashboard pipelines,
->   Superset, <br> Data Gateway Internal Tool, Tableau, ELK Pipeline, Gitlab CI, Github CI, Databricks Job & Repo, <br> CRM Pipeline, Kafka Event Server, Lambda, VPN & Domain Migration 등의 영역에 대해 <br> **주요 이슈 해결, 팀 차원의 대응 강화 및 시스템 개선에 직접적이고 주요한 기여**
+> - Security, Airflow, Schema Registry Internal Tool, Amundsen to Datahub, <br> UA Dashboard pipelines, Superset, Data Gateway Internal Tool, <br> Tableau, ELK Pipeline, Gitlab CI, Github CI, <br> Databricks Job & Repo, CRM Pipeline, Kafka Event Server, Lambda, VPN & Domain Migration 등의 영역에 대해 <br> **주요 이슈 해결, 팀 차원의 대응 강화 및 시스템 개선에 직접적이고 주요한 기여**
 
 ### **데이터 엔지니어링 역량 강화 `Mentor`**
 
@@ -176,11 +170,11 @@
 
 > - `Data Gateway Internal Tool`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Realtime Query Pipeline`, `AWS Redshift Migration`, `CRM Pipeline`, `Databricks SQL`, <br> `Tableau Server`, `GUI Query Internal Tool` 등 데이터를 활용하는 <br> 데이터 **서비스 프로젝트들을 개발, 운영, 관리한 책임자**
 >
-> - 회사 성장 및 전략 다변화에 따라 증가하는 Data Service Requirement를 정의하고 이를 효과적으로 충족하는 <br> **안정적 System 및 Process 구축으로 핵심 비즈니스 가치 전달, 미래 전략 구현 및 성장 가능성 향상에 기여**
+> - 회사 성장 및 전략 다변화에 따라 증가하는 Data Service Requirement를 정의하고 <br> 이를 효과적으로 충족하는 **안정적 System 및 Process 구축으로 <br> 핵심 비즈니스 가치 전달, 미래 전략 구현 및 성장 가능성 향상에 기여**
 >
 > - 서비스의 안정성을 위해 Validation, Correction, Monitoring 강화로 <br> **Almost Zero Downtime 및 High Data Quality 보장과 협업 가능성 향상, 개발 역량 및 구현 속도 가속**
 >
-> - 다양한 요구사항과 사용 사례를 패턴화한 뒤 Yaml based로 시스템 고도화 및 최적화를 통해 <br> > **최고 수준의 서비스 안정성과 확장성 보장, 데이터 서포트 역량 강화 및 제공범위 확장**
+> - 다양한 요구사항과 사용 사례를 패턴화한 뒤 Yaml based로 시스템 고도화 및 최적화를 통해 <br> **최고 수준의 서비스 안정성과 확장성 보장, 데이터 서포트 역량 강화 및 제공범위 확장**
 >
 > - onesignal 시스템을 대체하는 중요 프로젝트에서 데이터 팀의 대표로 빠르고 안정적인 구현을 책임지고 <br> 서로 다른 세 팀이 협업하는 상황에서 착오없이 올바른 요구사항을 결정하고 내부 규정에 맞도록 <br> **팀 내외로 긴밀한 소통과 정확한 구현 및 문서화 등 후속작업 완료**
 >
