@@ -40,7 +40,7 @@
 
 - 전체 Data Pipeline 및 Data System을 책임지고 개발, 운영, 관리했으며 지속적인 개선과 모듈화 진행
 - `(Spark) Databricks` 환경 에서 시스템 이해 기반으로 SQL을 포함한 ETL 개발, <br> 로직 개선, 비용 최적화, 이슈 대처 및 운영 경험
-- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, <br> `VPN & Domain Migration` 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 <br> 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
+- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, <br> `VPN & Domain Migration` 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 <br> 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 <br> 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 <br> Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
 - 특히 `Data Pipeline`과 `Data Serving Layer`에 집중하여 시스템과 밸류 관점에서 문제상황을 정의하고 <br> 솔루션을 개발, 운영, 관리한 경험
 - 실시간 쿼리 플랫폼, 실시간 데이터 서비스, 실시간 데이터 파이프라인 구축 경험
 - `Airflow`에 대한 이해와 팀 내 규칙들을 결합한 최적화 및 운영 관리 경험
@@ -158,13 +158,13 @@
 
 ### **데이터 엔지니어링 역량 강화 `Mentor`**
 
-> - Onboarding Process System 제안과 적용 및 Project Guide 제공으로 <br> **Knowledge Transfer 최적화 및 신규 인원의 빠른 적응, 역량 향상, 독립적인 프로젝트 기여 촉진**
+> - Onboarding Process System 제안과 적용 및 Project Guide 제공으로 <br> **Knowledge Transfer 최적화 및 신규 인원의 빠른 적응, 역량 향상, <br> 독립적인 프로젝트 기여 촉진**
 >
 > - 팀의 인적 역량 강화를 위해 부사수셨던 분들께(당시 3인) 적극적인 멘토링과 서포트 제공, <br> **체계적인 문제 해결 노하우 제공, 주도적 소통과 작업방식 지도를 통해 빠른 역량향상에 기여**
 >
 > - 팀원들이 self-motivated되어 기술적으로 성장할 수 있는 <br> **도전적이고 중요한 과제 제시 및 동기부여** 진행 <br> 팀과 회사의 성장에 기여하는 비즈니스 밸류를 중시하는 기술자가 될 수 있도록 <br> **비용 효율성, 확장성과 효용성 관점에서 작업과 프로젝트 피드백 및 적극적 의견 교류 진행**, <br> 여러 프로젝트 노하우 전수를 통한 팀의 잠재력과 성장성의 향상에 기여.
 >
-> - OKR 기반의 티켓 관리 방식 도입과 철저한 피드백 반영을 통한 작업 진행, <br> **높은 작업 가시성과 리소스 관련 소통, 협업 역량 강화로 팀의 리소스 효율성과 성장성에 기여**
+> - OKR 기반의 티켓 관리 방식 도입과 철저한 피드백 반영을 통한 작업 진행, <br> **높은 작업 가시성과 리소스 관련 소통, 협업 역량 강화로 <br> 팀의 리소스 효율성과 성장성에 기여**
 
 ### **데이터 서비스 `Main Developer`**
 
@@ -230,7 +230,7 @@
 
 ### **데이터 시스템 책임자로서 이슈에 적극적으로 대응**
 
-> - 시스템 이슈 책임자로서 담당자의 공백이 있는 경우에도 전문성 있는 시스템 분석과 <br> 운영 노하우를 적극 활용해서 이슈의 원인 분석, 문제 해결, 재발 방지 대책 적용 및 가이드라인 공유로 <br> **시스템 안정성 개선, 팀의 문제해결 역량 향상에 기여. 시스템 자동화, 모듈화로 <br> 관리 리스크 최소화에 기여**
+> - 시스템 이슈 책임자로서 담당자의 공백이 있는 경우에도 전문성 있는 시스템 분석과 <br> 운영 노하우를 적극 활용해서 이슈의 원인 분석, 문제 해결, 재발 방지 대책 적용 및 <br> 가이드라인 공유로 **시스템 안정성 개선, 팀의 문제해결 역량 향상에 기여. <br> 시스템 자동화, 모듈화로 관리 리스크 최소화에 기여**
 >
 > - 팀 내 노하우 공유에 주도적으로 참여. 책임감을 갖고 적극적으로 이슈 대응 및 시스템 개선에 <br> 참여함으로 모범을 보였고 팀원들이 적극적으로 이슈 해결 및 시스템 관리를 하도록 <br> **팀 내 이슈 대응 체계 발전과 팀 내 시스템 안정성 성장에 기여**
 >
@@ -268,7 +268,7 @@
 >
 > - `Infra Cost Dashboard`, `Alerting System`, `Security Project`, `Cost Optimization` 및 <br> `Service Refactoring & Improvement` 등 **팀에 최대한 도움이 되는 방향을 제안하고 <br> 논의하며 실현함으로 팀워크 인식 형성**
 >
-> - 팀에 꼭 필요한 시스템 비용 최적화에 책임감을 갖고 주도적으로 참여. **전체 비용 세분화로 체계적, <br> 효율적인 비용 분석 프로세스를 만들고 장기간 분석 결과를 주기적으로 공유.** <br> 꾸준한 비용 모니터링을 통해 **비용 급증 상황 파악 및 적절한 대응책 제시**. <br> **시스템 전체 차원의 주요 비용 절감 방안과 최적화 가능성 주도적으로 제시, 검증 및 진행**. <br> 이를 통해 **팀과 회사 전체의 비용 효율성 및 성장 가능성에 기여.**
+> - 팀에 꼭 필요한 시스템 비용 최적화에 책임감을 갖고 주도적으로 참여. **전체 비용 세분화로 <br> 체계적, 효율적인 비용 분석 프로세스를 만들고 장기간 분석 결과를 주기적으로 공유.** <br> 꾸준한 비용 모니터링을 통해 **비용 급증 상황 파악 및 적절한 대응책 제시**. <br> **시스템 전체 차원의 주요 비용 절감 방안과 최적화 가능성 주도적으로 제시, 검증 및 진행**. <br> 이를 통해 **팀과 회사 전체의 비용 효율성 및 성장 가능성에 기여.**
 
 <hr>
 
