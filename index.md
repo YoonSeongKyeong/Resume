@@ -40,7 +40,7 @@
 
 - 전체 Data Pipeline 및 Data System을 책임지고 개발, 운영, 관리했으며 지속적인 개선과 모듈화 진행
 - `(Spark) Databricks` 환경 에서 시스템 이해 기반으로 SQL을 포함한 ETL 개발, <br> 로직 개선, 비용 최적화, 이슈 대처 및 운영 경험
-- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, <br> `VPN & Domain Migration` 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 <br> 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 <br> 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 <br> Data&AI 팀 내 <br> 시스템 안정성을 책임지고 관리한 경험
+- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, <br> `VPN & Domain Migration` 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 <br> 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 <br> 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 <br> Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
 - 특히 `Data Pipeline`과 `Data Serving Layer`에 집중하여 시스템과 밸류 관점에서 문제상황을 정의하고 <br> 솔루션을 개발, 운영, 관리한 경험
 - 실시간 쿼리 플랫폼, 실시간 데이터 서비스, 실시간 데이터 파이프라인 구축 경험
 - `Airflow`에 대한 이해와 팀 내 규칙들을 결합한 최적화 및 운영 관리 경험
@@ -181,6 +181,8 @@
 > - 검증된 외부 주요 데이터 프로젝트 벤치마킹 및 도입을 통한 <br> **전사적 데이터 활용 역량 강화 및 범위 확장**
 
 ### **`Data Engineer` ( 2020-06 ~ 2022-03 )**
+
+### **`Data Service` Developer**
 
 > - Data & AI Team 에서 다른 팀에게 **데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 진행**
 >
