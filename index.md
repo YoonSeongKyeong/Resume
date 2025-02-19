@@ -40,7 +40,7 @@
 
 - 전체 Data Pipeline 및 Data System을 책임지고 개발, 운영, 관리했으며 지속적인 개선과 모듈화 진행
 - `(Spark) Databricks` 환경 에서 시스템 이해 기반으로 SQL을 포함한 ETL 개발, <br> 로직 개선, 비용 최적화, 이슈 대처 및 운영 경험
-- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, `VPN & Domain Migration` <br> 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
+- `Kubernetes`, `Helm`, `Airflow`, `Schema Registry Internal Tool`, `Datahub`, `Superset`, <br> `Data Gateway Internal Tool`, `Realtime Query Pipeline`, `AWS Redshift`, `Apache Spark (Databricks)`, <br> `Databricks Job & Repo`, `Databricks SQL`, `ELK Pipeline (AWS Open Search)`, `Tableau Server`, <br> `Gitlab CI/CD`, `Github CI/CD`, `AWS Lambda`, `Terraform`, `Kafka Event Server`, `Security System`, <br> `VPN & Domain Migration` 등의 영역에 대해 버전 업그레이드, End User부터 Service Provider까지 소통하며 이슈 대응, 오픈소스 코드 레벨 분석을 통한 이슈 해결, 서비스 안정성 강화 및 빠르고 체계적인 이슈 대응, 재발 방지 및 팀 차원의 정책과 시스템 수립 등 적극적으로 Data&AI 팀 내 시스템 안정성을 책임지고 관리한 경험
 - 특히 `Data Pipeline`과 `Data Serving Layer`에 집중하여 시스템과 밸류 관점에서 문제상황을 정의하고 <br> 솔루션을 개발, 운영, 관리한 경험
 - 실시간 쿼리 플랫폼, 실시간 데이터 서비스, 실시간 데이터 파이프라인 구축 경험
 - `Airflow`에 대한 이해와 팀 내 규칙들을 결합한 최적화 및 운영 관리 경험
@@ -56,10 +56,10 @@
 
 ### **Infrastructure**
 
-- Docker, Kubernetes, Helm, Helmfile 을 사용해서 개발, 배포 및 이슈 해결 경험. <br> 많은 이슈 상황에서 Maintainer로서 문제를 찾아서 해결하고 상황을 정상화한 뒤 재발 방지 <br> 원활한 관리를 위해 팀 내 컨벤션을 정하고 해당 모듈 또는 패턴을 사용하도록 추상화
+- Docker, Kubernetes, Helm, Helmfile 을 사용해서 개발, 배포 및 이슈 해결 경험. <br> + 많은 이슈 상황에서 Maintainer로서 문제를 찾아서 해결하고 상황을 정상화한 뒤 재발 방지 <br> + 원활한 관리를 위해 팀 내 컨벤션을 정하고 해당 모듈 또는 패턴을 사용하도록 추상화
 - Terraform 및 AWS CDK 환경에서 배포 경험
-- Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용 경험 <br> 지속적인 공유와 필요성 인식으로 팀 내 컨벤션 및 사내 컨벤션으로 정착
-- Gitlab CI / CD 를 통한 클라이언트 및 서버 배포 시스템 자동화 경험 <br> Github CI / CD로 Migration 한 경험 <br> 모듈화를 이용한 전반적 CI 패턴과 컨벤션 제안 및 적용 경험
+- Zero Downtime을 위해 Blue Green Deployment 방법론 제안 및 적용 경험 <br> + 지속적인 공유와 필요성 인식으로 팀 내 컨벤션 및 사내 컨벤션으로 정착
+- Gitlab CI / CD 를 통한 클라이언트 및 서버 배포 시스템 자동화 경험 <br> + Github CI / CD로 Migration 한 경험 <br> + 모듈화를 이용한 전반적 CI 패턴과 컨벤션 제안 및 적용 경험
 - 반복되는 인프라 이슈에 대해 패턴을 파악하고 스크립트 또는 가이드라인을 만들어서 팀 내에 공유하는 방법으로 안정성을 강화한 경험
 
 ### **Front-End**
@@ -154,7 +154,7 @@
 >
 > - data-help라는 팀 외부 요청들의 전담 대응 TF 책임자로서 <br> **수많은 외부 요청들을 엔지니어 관점과 유저 관점, 비즈니스 밸류 관점으로 <br> 재해석하고 소통하며 팀이 더 나은 시스템과 서비스를 제공하도록 기여**
 >
-> - Security, Airflow, Schema Registry Internal Tool, Amundsen to Datahub, <br> UA Dashboard pipelines, Superset, Data Gateway Internal Tool, <br> Tableau, ELK Pipeline, Gitlab CI, Github CI, <br> Databricks Job & Repo, CRM Pipeline, Kafka Event Server, Lambda, VPN & Domain Migration 등의 영역에 대해 <br> **주요 이슈 해결, 팀 차원의 대응 강화 및 시스템 개선에 직접적이고 주요한 기여**
+> - Security, Airflow, Schema Registry Internal Tool, Amundsen to Datahub, <br> UA Dashboard pipelines, Superset, Data Gateway Internal Tool, <br> Tableau, ELK Pipeline, Gitlab CI, Github CI, Databricks Job & Repo, CRM Pipeline, <br> Kafka Event Server, Lambda, VPN & Domain Migration 등의 영역에 대해 <br> **주요 이슈 해결, 팀 차원의 대응 강화 및 시스템 개선에 직접적이고 주요한 기여**
 
 ### **데이터 엔지니어링 역량 강화 `Mentor`**
 
@@ -176,9 +176,9 @@
 >
 > - 다양한 요구사항과 사용 사례를 패턴화한 뒤 Yaml based로 시스템 고도화 및 최적화를 통해 <br> **최고 수준의 서비스 안정성과 확장성 보장, 데이터 서포트 역량 강화 및 제공범위 확장**
 >
-> - onesignal 시스템을 대체하는 중요 프로젝트에서 데이터 팀의 대표로 빠르고 안정적인 구현을 책임지고 <br> 서로 다른 세 팀이 협업하는 상황에서 착오없이 올바른 요구사항을 결정하고 내부 규정에 맞도록 <br> **팀 내외로 긴밀한 소통과 정확한 구현 및 문서화 등 후속작업 완료**
+> - onesignal 시스템을 대체하는 중요 프로젝트에서 데이터 팀의 대표로 <br> 빠르고 안정적인 구현을 책임지고 서로 다른 세 팀이 협업하는 상황에서 <br> 착오없이 올바른 요구사항을 결정하고 내부 규정에 맞도록 <br> **팀 내외로 긴밀한 소통과 정확한 구현 및 문서화 등 후속작업 완료**
 >
-> - 검증된 외부 주요 데이터 프로젝트 벤치마킹 및 도입을 통한 **전사적 데이터 활용 역량 강화 및 범위 확장**
+> - 검증된 외부 주요 데이터 프로젝트 벤치마킹 및 도입을 통한 <br> **전사적 데이터 활용 역량 강화 및 범위 확장**
 
 ### **`Data Engineer` ( 2020-06 ~ 2022-03 )**
 
@@ -238,7 +238,7 @@
 
 ### **데이터 서비스 책임자로서 Zero Downtime 달성**
 
-> - 전문성이 있는 Data Service 관련 모든 태스크에 Ownership을 가지고 마무리 및 배포 과정을 관리 및 개선, <br> 그 결과로 Almost Zero Downtime 실현, 빠르고 과감한 개발환경 구현, <br> **비숙련 인원의 태스크 투입 가능성 실현이라는 성과 달성**
+> - 전문성이 있는 Data Service 관련 모든 태스크에 Ownership을 가지고 작업 <br> 개발과 배포 과정을 관리 및 개선한 결과로 Almost Zero Downtime 실현, 빠르고 과감한 개발환경 구현, <br> **비숙련 인원의 태스크 투입 가능성 실현이라는 성과 달성**
 >
 > - Data Service의 메인 개발자로서 Ownership을 가지고 시스템 최적화, 고도화와 안정화 적용으로 **높은 서비스 품질 달성.** <br> 기존 방식의 문제점 개선 및 빠른 피드백 반영으로 **가치와 효율성 최대화**
 
