@@ -70,10 +70,11 @@
 
 ### **Data**
 
-- Data Service 개발 및 관리 경험
-- Spark Cluster & Databricks 환경에서 SQL을 포함한 ETL 개발 및 개선 경험
-- AWS Infra를 활용한 데이터 파이프라인 개발 및 관리 경험
-- Airflow를 활용한 ETL 스케쥴 개발 및 관리 경험
+- 일 12TB 데이터 및 3000여종의 이벤트 처리 파이프라인 관리
+- Data Service 개발 및 관리 경험 (20ms 내로 초당 30번 내외 요청, 실시간 anomaly 대응, 처리시간 20분 이상 걸리는 hourly update 정제 정보 제공, model feature 제공)
+- 800개 이상 작업이 등록되어 하루 15000건의 작업이 처리되는 Spark Cluster & Databricks 환경에서 SQL을 포함한 ETL 개발 및 개선 경험 <br>(ex: 간단한 작업 약 100종 개선 + 주요 작업 약 10종 개선<br> c5d.2xl \* 9 에서 하루 약 7시간 실행되는 주요 작업을 약 50% 비용 절감)
+- AWS Infra를 활용한 데이터 파이프라인 개발 및 관리 경험 <br>(Admin 권한을 사용해서 IAM, VPC, Route53, ALB, EC2, EKS, S3, Secret Manager, ECS, Lambda, Opensearch 등 전체 인프라에 대해 오너십을 갖고 개발 관리했음)
+- 약 200개 dag Airflow를 활용한 ETL 스케쥴 개발 및 관리 경험 <br>(약 20~30인의 전체 팀이 사용하는 Airflow의 코드 컨벤션 및 가이드, 환경 분리, 테스트, 업그레이드, 코드 모듈화, retry 도입 등으로 안정화 및 최적화, 센서 모듈 및 작업 실패 시 알러트, CI 관리 등 전반적 개발 관리 경험. 특히 on-call 시 airflow 원 소스코드 레벨 분석 등 깊고 빠른 대처와 작업 후 에러 발생률을 거의 0%로 크게 줄인 작업 다수)
 - Presto 도입을 위한 스터디 및 발표와 POC 경험
 
 ### **Communication**
@@ -99,6 +100,8 @@
 적극적인 투자와 빠른 성장을 경험하고 있으며
 <br>
 **[2021-03-08에 상장 주관사를 선정한 이후 상장을 앞두고 있습니다.](https://www.venturesquare.net/824719)**
+<br>
+데이터 팀에서는 하루 평균 12TB의 데이터와 3000여종의 이벤트를 처리합니다.
 
 <hr>
 
@@ -107,6 +110,8 @@
 ### **`Data Service Engineer` (2020-06 ~ )**
 
 > - Data & AI Team 에서 다른 팀에게 **데이터를 서빙하는 역할을 하는 main 시스템 <br> `Milkshake v1 & v2` 의 Developer로서 개발 및 관리 진행**
+>
+> - 20ms 내로 초당 30번 내외 요청, 실시간 anomaly 대응, 처리시간 20분 이상 걸리는 daily/hourly update 정제 정보 제공, model feature 제공, 수십 종 이상의 제공 데이터를 쉽게 등록, 관리, 처리, 저장하고 최적화시켜 안정적으로 제공하는 전체 시스템을 책임지고 개발, 관리 및 운영
 >
 > - Data & AI Team의 **GUI Query Management 서비스, `Claw Crane` 의 <br> Main Developer로서 개발 및 관리 진행**
 >
@@ -122,13 +127,13 @@
 >
 > - Databricks Job Optimization Report를 통해서 최적화 방법론과 적용 사례 정리, <br> **150개 이상의 작업에 30% 이상의 비용 최적화 실현**
 >
-> - AWS 인프라 비용의 주요 fator를 분석한 Billing Alert 제작 및 슬랙 연결, <br> **AWS 인프라 최적화 제안, 그 결과로 40% 이상의 비용 최적화 실현**
+> - AWS 인프라 비용의 주요 fator를 분석한 Billing Alert 제작 및 슬랙 연결, <br> **AWS 인프라 최적화 제안, 그 결과로 40% 이상의 비용 최적화 실현** <br> (최적화로 AWS 컴퓨팅 비용만 연 수천만원 감소)
 
 ### **시스템 안정화 `Supporter` (2020-06 ~ )**
 
 > - Code logic 상의 개선사항 제안 및 retry, logging, in-memory process 적용으로 <br> **system maintenance cost 안정화**
 >
-> - On Call 상황 및 다양한 인프라 장애 대응 및 복구 이후 <br> **예방이 가능한 시스템, 다운타임 최소화 시스템 및 프로세스 제안 및 개발**
+> - 주로 EKS, Airflow, AWS 등에서 일어나는 On Call 상황 및 다양한 인프라 장애 대응 및 복구 이후 <br> **예방이 가능한 시스템, 다운타임 최소화 시스템 및 프로세스 제안 및 개발** <br> 팀 내 인원이 여의치 않았던 약 1년 이상 주요 이슈에 대해 메인 책임자 1~2인으로서 EKS, Airflow, AWS 등 대부분의 시스템 이슈에 대해 책임지고 해결한 경험
 >
 > - Incremental Job의 **Idempotency를 보장하고 Discrepancy를 교정할 수 있는 시스템 <br> 제안 및 개발**
 >
@@ -161,12 +166,3 @@
 
 - `주로 소프트웨어학과 원전공 수업 수강`
 - `2019 1학기 20학점 4.43/4.5 계절학기 6학점 Pass 2학기 21학점 4.5/4.5으로 수료`
-
-<hr>
-
-<br>
-
-> ### **More Information**
-
-> - **[2020 이력서](./docs/윤성경_이력서_2020.pdf)**
-> - **[2020 자기소개서](./docs/윤성경_자기소개서_2020.pdf)**
