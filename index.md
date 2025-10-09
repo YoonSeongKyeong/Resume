@@ -1,12 +1,3 @@
----
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: default
----
 # **윤성경**
 
 ### **About Me <br><br> 비즈니스 밸류가 높은 문제를 찾고, 안되면 될 때까지 도전해서 결국 해낸 경험이 많은 문제 해결 전문가입니다. <br><br> 4년 6개월간 일 12TB, 약 3000여종의 이벤트 데이터를 처리하는 데이터 플랫폼에서 end to end 시스템 개발 및 운영 경험을 토대로 이슈 대응, 프로세스 개선, 신규 서비스 개발, 비용 시각화, 비용 최적화에 기여했습니다. <br> 주도적 태도로 문제를 찾고 분석하고 해결하는 과정을 통해 대규모 자동화 시스템 내 로직을 안정화하고 최적화하고 문서화하여 실질적 데이터 품질 향상에 앞장섰습니다.**
