@@ -17,7 +17,7 @@
 
 - **전 세계 4000만명 이상 유저들이 플레이하는 글로벌 게임 회사로 2024년 11월 기준 지난 5년간 60%의 매출 성장률을 보이며 전년도 1062억원 매출을 달성했습니다.**
 - **일 12TB, 3000여종의 이벤트를 처리하며 Data&AI 팀 규모는 20~30인 입니다.**
-- **Junior Data Engineer로 시작하여 팀의 성장에 기여하며 Data Service Team Junior Manager, Individual Contributer 등의 역할로 성장했습니다.**
+- **Junior Data Engineer로 시작하여 팀의 성장에 기여하며 Data Service Team Junior Manager, Individual Contributor 등의 역할로 성장했습니다.**
 
 <hr>
 
